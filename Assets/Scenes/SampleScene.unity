@@ -746,7 +746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469b6e9b34cb0be429ca611f6dbddbf9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _highlightColor: {r: 0, g: 0, b: 0, a: 0}
+  _highlightColor: {r: 1, g: 0, b: 0, a: 0}
 --- !u!64 &556658974
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3218,13 +3218,13 @@ GameObject:
   - component: {fileID: 6552559040811190}
   - component: {fileID: 3053781073517999622}
   - component: {fileID: 5648106551061359903}
-  - component: {fileID: 556658973}
   - component: {fileID: 556658974}
+  - component: {fileID: 556658973}
   - component: {fileID: 556658975}
   - component: {fileID: 556658977}
   - component: {fileID: 556658976}
   m_Layer: 0
-  m_Name: selector_wheel_low.001
+  m_Name: WheelController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
